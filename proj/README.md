@@ -1,5 +1,7 @@
 # My Portfolio Using REACTJS
 
+A Portfolio website using REACTJS. Material MDL library is used along with bootstrap CDN. The website is completely responsive and loads faster being made using ReactJS
+
 ![1](https://user-images.githubusercontent.com/58882791/71559958-feaf2a00-2a89-11ea-8d72-fdf9c7bc9415.png)
 
 ![2](https://user-images.githubusercontent.com/58882791/71559993-3e761180-2a8a-11ea-8b39-887ccb46b047.png)
